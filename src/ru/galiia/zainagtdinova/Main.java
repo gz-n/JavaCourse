@@ -13,5 +13,6 @@ class Main extends Object {
         user.setAge(57);
 
         System.out.println(user.getAge());
+        System.out.println(user.getAge());
     }
 }
